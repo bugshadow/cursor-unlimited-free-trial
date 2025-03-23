@@ -19,14 +19,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-```txt
-  _____                             ______                _   
- / ____|                           |  ____|              | |  
-| |     _   _ _ __ ___  ___  _ __  | |__   _ __  ___  ___| |_ 
-| |    | | | | '__/ __|/ _ \| '__| |  __| | '_ \/ __|/ _ \ __|
-| |____| |_| | |  \__ \ (_) | |    | |____| | | \__ \  __/ |_ 
- \_____|\__,_|_|  |___/\___/|_|    |______|_| |_|___/\___|\__|
-```
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-Script-%235391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
@@ -36,9 +29,7 @@
 
 ![Cursor Animation](https://media.giphy.com/media/100OSA3Yoqo9TG/giphy.gif?cid=790b76119wwvddrub98ag5v2suowzlb87fttvw0jrb80xtqg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-[![GitHub stars](https://img.shields.io/github/stars/bugshadow/cursor-unlimited-free-trial?style=for-the-badge&color=yellow)](https://github.com/bugshadow/cursor-unlimited-free-trial/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/bugshadow/cursor-unlimited-free-trial?style=for-the-badge&color=blue)](https://github.com/bugshadow/cursor-unlimited-free-trial/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/bugshadow/cursor-unlimited-free-trial?style=for-the-badge&color=red)](https://github.com/bugshadow/cursor-unlimited-free-trial/issues)
+
 
 </div>
 
