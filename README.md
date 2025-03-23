@@ -69,7 +69,7 @@ cd cursor-reset</pre>
 <tr>
 <td align="center">⚙️</td>
 <td><b>Étape 6:</b> Ouvrez PowerShell en tant qu'administrateur et exécutez:
-<pre style="background-color: #2d2d2d; color: #ffffff; padding: 10px; border-radius: 5px; animation: glow 1.5s infinite alternate;">cd $env:USERPROFILE\Downloads
+<pre style="background-color: #2d2d2d; color: #ffffff; padding: 10px; border-radius: 5px; animation: glow 1.5s infinite alternate;">cd to your path\cursor-reset
 .\cursorfree.ps1</pre>
 </td>
 </tr>
